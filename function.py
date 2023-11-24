@@ -1,4 +1,3 @@
-# function.py
 from note import Note
 from file_operation import read_file, write_file
 from datetime import datetime
