@@ -48,3 +48,4 @@ def show_notes_by_date(date):
     else:
         for note in matching_notes:
             print(note)
+
