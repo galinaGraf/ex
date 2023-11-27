@@ -20,4 +20,3 @@ class Note:
 
     def __str__(self):
         return f"ID: {self.id}\nЗаголовок: {self.title}\nТекст: {self.body}\nДата: {self.date}"
-

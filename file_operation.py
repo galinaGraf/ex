@@ -27,4 +27,3 @@ def read_file():
     except json.decoder.JSONDecodeError:
         print('Файл notes.json пуст или содержит некорректные данные JSON...')
     return array
-
